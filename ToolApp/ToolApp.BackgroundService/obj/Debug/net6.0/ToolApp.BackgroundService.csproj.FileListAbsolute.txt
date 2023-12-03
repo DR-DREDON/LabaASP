@@ -1,0 +1,15 @@
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\obj\Debug\net6.0\ToolApp.BackgroundService.csproj.AssemblyReference.cache
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\obj\Debug\net6.0\ToolApp.BackgroundService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\obj\Debug\net6.0\ToolApp.BackgroundService.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\obj\Debug\net6.0\ToolApp.BackgroundService.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\obj\Debug\net6.0\ToolApp.BackgroundService.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\bin\Debug\net6.0\ToolApp.BackgroundService.deps.json
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\bin\Debug\net6.0\ToolApp.BackgroundService.dll
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\bin\Debug\net6.0\ToolApp.BackgroundService.pdb
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\bin\Debug\net6.0\ToolApp.DAL.dll
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\bin\Debug\net6.0\ToolApp.DAL.pdb
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\obj\Debug\net6.0\ToolApp.BackgroundService.csproj.CopyComplete
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\obj\Debug\net6.0\ToolApp.BackgroundService.dll
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\obj\Debug\net6.0\refint\ToolApp.BackgroundService.dll
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\obj\Debug\net6.0\ToolApp.BackgroundService.pdb
+C:\Users\Vladislav\source\repos\ToolApp\ToolApp.BackgroundService\obj\Debug\net6.0\ref\ToolApp.BackgroundService.dll
